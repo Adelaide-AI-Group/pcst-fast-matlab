@@ -1,3 +1,0 @@
-*.m linguist-language=Matlab
-*.h linguist-language=C++
-*.cc linguist-language=C++
