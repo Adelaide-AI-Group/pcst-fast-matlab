@@ -21,5 +21,5 @@ In *pcst_entry_mex.cc* and *script_pcst.m*, you can find detailed comments about
 + Please check the original [project page](https://github.com/ludwigschmidt/pcst-fast) for more information, including the algorithm details, related academic papers and the license info.
 
 # Related Papers and Projects
-
-To be updated...
++ Dong Gong, Mingkui Tan, Yanning Zhang, Anton van den Hengel, Qinfeng Shi. Self-paced Kernel Estimation for Robust Blind Image Deblurring. In IEEE International Conference on Computer Vision (ICCV), 2017. 
++ ...
